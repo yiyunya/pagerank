@@ -1,0 +1,672 @@
+Workshop on Speech and Language Processing for Assistive Technologies  2014   5.781833961391869e-08
+COLING  1967   5.653895389951659e-08
+JEP-TALN-RECITAL 2012, Workshop DEGELS 2012: Défi GEste Langue des Signes (DEGELS 2012: Gestures and Sign Language Challenge)  2012   5.12175791902435e-08
+COLING  1973   4.2404222664946465e-08
+Workshop On Computer And Internet Supported Education In Language And Speech Technology  1999   3.248885980201168e-08
+Workshop On NLP And XML NLPXML RDF/RDFS And OWL In Language Technology  2004   3.1020744012442757e-08
+COLING  1969   2.826949143037636e-08
+Proceedings of the 2010 Workshop on Companionable Dialogue Systems  2010   2.8079922883386403e-08
+Workshop On ELearning For Computational Linguistics And Computational Linguistics For ELearning  2004   2.7252563478082682e-08
+Workshop On NLP And XML NLPXML Multi-Dimensional Markup  2006   2.6207386424869124e-08
+Workshop On Patent Corpus Processing  2003   2.2916523740381814e-08
+LaTeCH  2009   2.1420816194214955e-08
+Coling 2008: Proceedings of the workshop on Cross-Framework and Cross-Domain Parser Evaluation  2008   2.089568167372663e-08
+Workshop On KRAQ Knowledge And Reasoning For Language Processing  2006   2.070261583234506e-08
+Workshop On Computational Approaches To Arabic Script-Based Languages  2004   1.9911431530611174e-08
+BioNLP   2014   1.9852657576791508e-08
+Workshop On Linking Biological Literature Ontologies And Databases: Mining Biological Semantics  2005   1.984218179556863e-08
+Proceedings of the 2009 Workshop on Knowledge and Reasoning for Answering Questions (KRAQ 2009)  2009   1.971623847772883e-08
+Workshop On New Text Wikis And Blogs And Other Dynamic Text Sources  2006   1.8977314187857607e-08
+Proceedings of the Tenth Meeting of ACL Special Interest Group on Computational Morphology and Phonology  2008   1.8932012978179847e-08
+Workshop On Medical Speech Translation  2006   1.885487766533503e-08
+TTNLS  2014   1.8129286464987456e-08
+Workshop On The Lexicon And Figurative Language  2003   1.8092761657439543e-08
+Proceedings of the Third International Workshop on Cross Lingual Information Access: Addressing the Information Need of Multilingual Societies (CLIAWS3)  2009   1.8052216811486063e-08
+Workshop On Partially Automated Techniques For Transcribing Naturally Occurring Continuous Speech  1998   1.794416451773454e-08
+Workshop On Psycho-Computational Models Of Human Language Acquisition  2004   1.7848968148070954e-08
+Workshop on The People&rsquo;s Web Meets NLP: Collaboratively Constructed Semantic Resources (People's Web)  2012   1.7733732175760414e-08
+Workshop on Speech and Language Processing for Assistive Technologies  2011   1.7335381808608087e-08
+Workshop On Psychocomputational Models Of Human Language Acquisition  2005   1.72578049522095e-08
+Proceedings of the NAACL HLT Workshop on Extracting and Using Constructions in Computational Linguistics  2010   1.7117709185674173e-08
+Proceedings of the First Workshop on Language Technologies for African Languages  2009   1.710673189840217e-08
+Workshop on Embodied Language Processing  2007   1.7068562241805227e-08
+CL  1985   1.700249997713924e-08
+LG-LP  2014   1.6947496397526226e-08
+Workshop On Effective Tools And Methodologies For Teaching Natural Language Processing And Computational Linguistics  2002   1.6755338826952233e-08
+Louhi  2010   1.6692495943034583e-08
+Proceedings of the 2010 Workshop on NLP and Linguistics: Finding the Common Ground  2010   1.667678655066992e-08
+Workshop On Language Resources For Translation Work Research And Training  2004   1.6676354469375622e-08
+Workshop on Speech and Multimodal Interaction in Assistive Environments  2012   1.6406918988115036e-08
+Workshop On Natural Language Processing For Communication Aids  1997   1.6182570588159127e-08
+OntoLex  2005   1.6120472223151273e-08
+Workshop On Research Directions In Dialogue Processing  2003   1.602029653007806e-08
+NLP4ITA  2013   1.5891033724338108e-08
+Proceedings of the 2nd workshop on Cross Lingual Information Access (CLIA) Addressing the Information Need of Multilingual Societies  2008   1.5858464827569657e-08
+Proceedings of the NAACL HLT 2010 Workshop on Semantic Search  2010   1.5843113396676214e-08
+Workshop on Cognitive Modeling and Computational Linguistics  2014   1.5677525110502308e-08
+Workshop On Building Educational Applications Using NLP  2005   1.5568160271904702e-08
+Workshop on Speech and Language Processing for Assistive Technologies  2010   1.5550473258436656e-08
+LaTeCH  2012   1.5499879625991015e-08
+Workshop On Multilingual Language Resources And Interoperability  2006   1.540968672565092e-08
+Workshop on Analysis of Large Scale Social Interaction in MOOCs  2014   1.511655317502427e-08
+Workshop on Computational Linguistics and Writing  2012   1.4912411395941498e-08
+Coling 2008: Proceedings of the workshop on Grammar Engineering Across Frameworks  2008   1.4815454208361525e-08
+Workshop On Multilingual Question Answering MLQA  2006   1.4803536525765473e-08
+Workshop On Frontiers In Linguistically Annotated Corpora  2006   1.4702924752075728e-08
+Workshop On Constraints And Language Processing  2006   1.4676591798274318e-08
+Proceedings of the NAACL HLT 2010 Second Workshop on Computational Approaches to Linguistic Creativity  2010   1.4648910179296515e-08
+Proceedings of the Workshop on Software Engineering Testing and Quality Assurance for Natural Language Processing (SETQA-NLP 2009)  2009   1.4589700541518517e-08
+Workshop On Referring Phenomena In A Multimedia Context And Their Computational Treatment  1997   1.4525958068382476e-08
+Proceedings of the Workshop on Automatic Summarization for Different Genres Media and Languages  2011   1.4416807609320017e-08
+Workshop On Effective Tools And Methodologies For Teaching Natural Language Processing And Computational Linguistics  2013   1.4403129842681529e-08
+Proceedings of the Workshop on Computational Approaches to Linguistic Creativity  2009   1.4370989086513163e-08
+Workshop On Linguistic Annotation: Getting The Model Right  2003   1.4353642877977224e-08
+Workshop on Cognitive Modeling and Computational Linguistics  2013   1.4333917344194002e-08
+Workshop on Speech and Language Processing for Assistive Technologies  2012   1.4287400951673924e-08
+Workshop On Content Visualization And Intermedia Representations  1998   1.4156533366823246e-08
+Workshop on Detecting Structure in Scholarly Discourse  2012   1.4041912034727526e-08
+Workshop On How Can Computational Linguistics Improve Information Retrieval?  2006   1.4035027841652298e-08
+BEA  2008   1.4000920449035017e-08
+BEA  2011   1.3913184355831192e-08
+Proceedings of the 2009 Workshop on Language Generation and Summarisation (UCNLG+Sum 2009)  2009   1.3894117811157245e-08
+Workshop On Linking Biological Literature Ontologies And Databases  2004   1.3844510418423614e-08
+Proceedings of the First Workshop on Algorithms and Resources for Modelling of Dialects and Language Varieties  2011   1.3788542273220726e-08
+TextGraphs Workshop On Graph Based Methods For Natural Language Processing  2010   1.377564895332114e-08
+Workshop On Scalable Natural Language Understanding (ScaNaLU)  2004   1.3753450395043433e-08
+CogALex  2008   1.3749756391772632e-08
+CogALex  2010   1.3729534665887111e-08
+Workshop on Prepositions  2007   1.3713622477200156e-08
+LaTeCH  2007   1.362542499936112e-08
+Workshop on Computational Linguistics for Literature  2014   1.3561647166668584e-08
+Proceedings of the NAACL HLT 2010 Workshop on Computational Linguistics in a World of Social Media  2010   1.3496760386694669e-08
+OIAF4HLT  2014   1.3449543331845206e-08
+Workshop On Concept To Speech Generation Systems  1997   1.343125274232275e-08
+Workshop On Enhancing And Using Electronic Dictionaries  2004   1.3321751709666152e-08
+Workshop on Bridging the Gap: Academic and Industrial Research in Dialog Technologies  2007   1.3313140715343894e-08
+Workshop:  Conference On Question Answering In Restricted Domains  2004   1.3186487453220367e-08
+Workshop on Grammar-Based Approaches to Spoken Language Processing  2007   1.3169760169283724e-08
+VL  2014   1.3108529677866482e-08
+Joint Workshop of LINGVIS & UNCLH  2012   1.3105088264379565e-08
+Proceedings of the EACL 2009 Workshop on Computational Linguistic Aspects of Grammatical Inference  2009   1.3076646837246754e-08
+Coling 2008: Proceedings of the workshop Multi-source Multilingual Information Extraction and Summarization  2008   1.3020267116695272e-08
+LaTeCH  2011   1.3008949986790933e-08
+AJCL  1980   1.2982390103257173e-08
+Workshop on Computational Approaches to Figurative Language  2007   1.2965874867454565e-08
+Workshop On Interdisciplinary Approaches To Speech Indexing And Retrieval  2004   1.2924822325421582e-08
+BioNLP   2009   1.2852020042213281e-08
+Workshop On Natural Language Processing In The Biomedical Domain  2002   1.2847691906273195e-08
+COLING  1980   1.2752164458844886e-08
+Workshop On Spoken Language Understanding For Conversational Systems And Higher Level Linguistic Information For Speech Processing  2004   1.269215144565248e-08
+Proceedings of the Fifth Workshop on Asian Language Resources (ALR-05) and First Symposium on Asian Language Resources Network (ALRN)  2005   1.2679603652509393e-08
+SIGDIAL  2006   1.261905215285485e-08
+Proceedings of the Twelfth Meeting of the Special Interest Group on Computational Morphology and Phonology  2012   1.2573046889529465e-08
+Workshop On Linguistically Interpreted Corpora  2004   1.2557512243969367e-08
+Workshop On Scalable Natural Language Understanding  2006   1.2538743740015977e-08
+Proceedings of the 6th Workshop on  Ontologies and Lexical Resources   2010   1.2479631519067076e-08
+Workshop on Predicting and Improving Text Readability for target reader populations  2014   1.2460484596576396e-08
+Proceedings of the Sixth International Workshop on Linguistically Interpreted Corpora (LINC-2005)  2005   1.2448646411514473e-08
+Proceedings of the 2009 Workshop on Grammar Engineering Across Frameworks (GEAF 2009)  2009   1.2446793170237482e-08
+Workshop on Multilingual Modeling  2012   1.2445435041319994e-08
+CLTW  2014   1.241647499591364e-08
+Workshop On Multilingual Linguistic Resources  2004   1.2412211579547043e-08
+Workshop On Computer Mediated Language Assessment And Evaluation In Natural Language Processing  1999   1.2385789330727682e-08
+Workshop on Computational Approaches to Semitic Languages: Common Issues and Resources  2007   1.2357192655344595e-08
+Workshop on Predicting and Improving Text Readability for target reader populations  2012   1.2343625276548423e-08
+TextGraphs Workshop On Graph Based Methods For Natural Language Processing  2013   1.2339918536663168e-08
+SIGMORPHON  2007   1.2265066574948574e-08
+SIGSEM Workshop On Prepositions  2006   1.2235318455583184e-08
+LaTeCH  2013   1.223514676919508e-08
+Workshop On Computational Phonology  1994   1.2201971109463027e-08
+AJCL  1981   1.2187217270378973e-08
+Workshop On Analyzing Conversations In Text And Speech  2006   1.2166538384270936e-08
+ATS-MA  2014   1.2135143663981746e-08
+WSSANLP  2014   1.2130613555654677e-08
+Workshop On Building Educational Applications Using Natural Language Processing  2003   1.2103717589644569e-08
+Workshop On Linguistic Distances  2006   1.2094592380439828e-08
+Events: Definition, Detection, Coreference, and Representation  2013   1.209301272992627e-08
+Proceedings of the 2009 Workshop on Applied Textual Inference (TextInfer)  2009   1.2045024737809505e-08
+BEA  2010   1.202740724207887e-08
+Workshop On Word Senses And Multi-Linguality  2000   1.2026251918712143e-08
+Proceedings of the 6th Workshop on Asian Language Resources  2008   1.2017208703941937e-08
+Workshop on Evaluation Metrics and System Comparison for Automatic Summarization  2012   1.2006500069854151e-08
+SIGMORPHON and SIGFSM  2014   1.1985477606785743e-08
+Workshop on Cognitive Modeling and Computational Linguistics  2011   1.1976778071977097e-08
+Linguistic Annotation Workshop  2014   1.1943230519158375e-08
+Workshop on Computational Models of Language Acquisition and Loss  2012   1.1928525832498009e-08
+Proceedings of the EACL 2009 Workshop on Cognitive Aspects of Computational Language Acquisition  2009   1.1902442347775259e-08
+Coling 2008: Proceedings of the workshop on Human Judgements in Computational Linguistics  2008   1.1891984700488525e-08
+Linguistic Annotation Workshop  2007   1.1852877399293079e-08
+Proceedings of SRSL 2009 the 2nd Workshop on Semantic Representation of Spoken Language  2009   1.1798943640705168e-08
+Louhi  2014   1.1794425785957133e-08
+Proceedings of the Workshop on Distributional Semantics and Compositionality  2011   1.171252961511831e-08
+TextGraphs Workshop On Graph Based Methods For Natural Language Processing  2007   1.171250250785298e-08
+Workshop On Spoken Language Translation  1997   1.1640031146501075e-08
+Workshop On Effective Tools And Methodologies For Teaching Natural Language Processing And Computational Linguistics  2005   1.162264670302055e-08
+Workshop On Learning Word Meaning From Non-Linguistic Data  2003   1.157449250696552e-08
+STEP  2008   1.1549662304896377e-08
+Workshop On NLP And XML NLPXML  2002   1.152210020535669e-08
+NAACL  2010   1.1501789983946258e-08
+Proceedings of the Second Workshop on NLP Challenges in the Information Explosion Era (NLPIX 2010)  2010   1.1496045373286828e-08
+Proceedings of the EACL 2003 Workshop on Evaluation Initiatives in Natural Language Processing: are evaluation methods metrics and resources reusable?  2003   1.1484202317797839e-08
+Workshop on Computational Linguistics for Literature  2013   1.1451145525899064e-08
+ComputEL  2014   1.1442968592476647e-08
+Workshop On Task-Focused Summarization And Question Answering  2006   1.1424851832364203e-08
+Linguistic Annotation Workshop  2013   1.140796244255022e-08
+WVL  2013   1.1380425093300052e-08
+Workshop On Multilingual Summarization And Question Answering  2002   1.1374017618544829e-08
+ACL  2016   1.1317269320581957e-08
+Proceedings of the NAACL HLT 2009 Workshop on Active Learning for Natural Language Processing  2009   1.1308159200192545e-08
+Coling 2008: Proceedings of the workshop on Speech Processing for Safety Critical Translation and Pervasive Applications  2008   1.1300889424057381e-08
+Proceedings of the Workshop on Language in Social Media (LSM 2011)  2011   1.129520601856803e-08
+MWE  2004   1.1288729194730865e-08
+Workshop On Multi-Word-Expressions In A Multilingual Context  2006   1.1263429985616918e-08
+Linguistic Annotation Workshop  2010   1.1241890357106732e-08
+Frame Semantics in NLP: A Workshop in Honor of Chuck Fillmore (1929-2014)  2014   1.1212686863153508e-08
+Proceedings of the Student Research Workshop at EACL 2009  2009   1.1191005533754823e-08
+Proceedings of the BioNLP 2009 Workshop Companion Volume for Shared Task  2009   1.118376546340723e-08
+CVSC  2014   1.112704559726744e-08
+ from Web Collections  CL   1.1123829203750383e-08
+TextGraphs Workshop On Graph Based Methods For Natural Language Processing  2008   1.1118103213774404e-08
+SIGHAN Workshop On Chinese Language Processing  2002   1.1110821572891808e-08
+SIGDIAL  2004   1.1097892689169006e-08
+Proceedings of the UCNLG+Eval: Language Generation and Evaluation Workshop  2011   1.107071274580991e-08
+LaTeCH  2014   1.1036556837491365e-08
+Proceedings of the Workshop on Integer Linear Programming for Natural Language Processing  2009   1.1032504775639125e-08
+Workshop On Automatic Summarization  2002   1.1025650173664637e-08
+SADAATL  2014   1.1022756613472784e-08
+INLG  2014   1.1001725614760603e-08
+WSSANLP  2010   1.0986040527892795e-08
+ACL-2012 Special Workshop on Rediscovering 50 Years of Discoveries  2012   1.0976989480934127e-08
+MWE  2013   1.0963454911433391e-08
+CogALex  2014   1.0906280009203577e-08
+Workshop On Lexical Semantics And Knowledge Representation  1991   1.089289337619904e-08
+Workshop on Computational Linguistics and Clinical Psychology: From Linguistic Signal to Clinical Reality  2014   1.0857267363393397e-08
+ACL  2015   1.0818196268798922e-08
+Proceedings of the ACL-08: HLT Workshop on Mobile Language Processing  2008   1.0806012152290333e-08
+AJCL  1982   1.0800648144397808e-08
+Workshop On Analysis Of Geographic References  2003   1.0786164648653325e-08
+ComAComA  2014   1.0780220723390723e-08
+CAtoCL  2014   1.0779353328733997e-08
+Proceedings of the NAACL HLT 2010 Student Research Workshop  2010   1.0767864105247067e-08
+Linguistic Annotation Workshop  2011   1.0762473790072297e-08
+Workshop On Web As Corpus  2006   1.0742273076044804e-08
+Proceedings of the IJCNLP-08 Workshop on NLP for Less Privileged Languages  2008   1.0730956413125822e-08
+Workshop On Software Engineering And Architecture Of Language Technology Systems SEALTS  2003   1.0699254263676003e-08
+Proceedings of the NAACL HLT 2010 Young Investigators Workshop on Computational Approaches to Languages of the Americas  2010   1.0685402950587263e-08
+Workshop On Frontiers In Corpus Annotation  2004   1.0668267253229434e-08
+MoL  2013   1.066663636620802e-08
+Workshop On Computational Environments For Grammar Development And Linguistic Engineering  1997   1.063154018291882e-08
+Proceedings of the EACL 2009 Workshop on the Interaction between Linguistics and Computational Linguistics: Virtuous Vicious or Vacuous?  2009   1.0627713458364154e-08
+INLG  2012   1.0615900291835718e-08
+Workshop On Computational Approaches To Semitic Languages  1998   1.0592729596334998e-08
+Software Engineering Testing and Quality Assurance for Natural Language Processing  2008   1.0580939689480363e-08
+Workshop on Cognitive Modeling and Computational Linguistics  2012   1.0561161551939042e-08
+Workshop On Coreference And Its Applications  1999   1.0550928540299363e-08
+Workshop on The People&rsquo;s Web Meets NLP: Collaboratively Constructed Semantic Resources (People's Web)  2010   1.0523763303910587e-08
+MWE  2014   1.0508167172909502e-08
+Workshop On Information Retrieval With Asian Languages  2003   1.0503333352085045e-08
+Workshop On Text Meaning And Interpretation  2004   1.0488967758890965e-08
+Proceedings of the 11th Meeting of the ACL Special Interest Group on Computational Morphology and Phonology  2010   1.0486664216990037e-08
+CL  1989   1.0421667058034408e-08
+Proceedings of the Workshop on Unsupervised and Minimally Supervised Learning of Lexical Semantics  2009   1.0419812379171299e-08
+Workshop On Speech-To-Speech Translation: Algorithms And Systems  2002   1.0406128983822217e-08
+Workshop On From Research To Commercial Applications: Making NLP Work In Practice  1997   1.0384344655536598e-08
+Workshop on Cognitive Modeling and Computational Linguistics  2010   1.0378380185643782e-08
+Workshop On Text Meaning  2003   1.0357385012604884e-08
+Proceedings of the Fifth International Workshop on Inference in Computational Semantics  2006   1.0355906201543661e-08
+Workshop:  BioNLP Workshop On Linking Natural Language And Biology  2006   1.0330641897362215e-08
+Workshop On Embedded Machine Translation Systems  2000   1.0293070125718424e-08
+TextGraphs Workshop On Graph Based Methods For Natural Language Processing  2012   1.0284300562310713e-08
+Proceedings of the 4th Workshop on Cross Lingual Information Access  2010   1.0278015431959431e-08
+MWE  2010   1.0265107564253672e-08
+LTCSS  2014   1.0245165643647722e-08
+ACL-IJCNLP: Student Research Workshop papers  2009   1.0208474573066123e-08
+Proceedings of the Third Workshop on Issues in Teaching Computational Linguistics  2008   1.0154295703006674e-08
+Workshop On Cross-Language Knowledge Induction Workshop  2006   1.0110552156572478e-08
+Workshop on Balto-Slavonic Natural Language Processing  2007   1.0110337699263016e-08
+MWE  2011   1.0101608493409722e-08
+SIGMORPHON  2006   1.0099354931745442e-08
+Workshop On Temporal And Spatial Information Processing  2001   1.009442737053191e-08
+Workshop on Applications of Tree Automata Techniques in Natural Language Processing  2012   1.005199852736918e-08
+metaphor in NLP  2013   1.004867983759353e-08
+Workshop On Intelligent Scalable Text Summarization  1997   9.984953622479298e-09
+Workshop on Computational Linguistics and Writing  2010   9.975710960313793e-09
+Coling 2008: Proceedings of the workshop on Knowledge and Reasoning for Answering Questions  2008   9.944464271667307e-09
+Workshop on Computational Approaches to Code Switching  2014   9.93343384954135e-09
+Proceedings of the Workshop on Technologies and Corpora for Asia-Pacific Speech Translation (TCAST)  2008   9.91417582994078e-09
+Workshop On Discourse Annotation  2004   9.912786841131585e-09
+CompuTerm International Workshop On Computational Terminology  2014   9.906528392274122e-09
+Events: Definition, Detection, Coreference, and Representation  2014   9.881656650295435e-09
+HyTra  2014   9.853150630062864e-09
+Workshop On Feature Engineering For Machine Learning In Natural Language Processing  2005   9.842364673075789e-09
+BEA  2014   9.832114004144165e-09
+Proceedings of the NAACL HLT 2010 Workshop on Active Learning for Natural Language Processing  2010   9.82527736101822e-09
+Proceedings of the EACL 2009 Workshop on Computational Approaches to Semitic Languages  2009   9.797924564881733e-09
+SIGDIAL  2001   9.747123983145481e-09
+Proceedings of the NAACL HLT 2010 Sixth Web as Corpus Workshop  2010   9.737442847434712e-09
+BioNLP   2012   9.731835211846293e-09
+LASM  2013   9.693083714883545e-09
+Workshop On Tree Adjoining Grammar And Related Formalisms  2006   9.657344878445353e-09
+Proceedings of the ACL 2010 Student Research Workshop  2010   9.6495678640538e-09
+Workshop On Towards Standards And Tools For Discourse Tagging  1999   9.64394887727531e-09
+Proceedings of the GEMS 2011 Workshop on GEometrical Models of Natural Language Semantics  2011   9.636201110397345e-09
+Workshop:  Biological translational and clinical language processing  2007   9.6132373753046e-09
+Workshop on Balto-Slavonic Natural Language Processing  2013   9.57783672159869e-09
+Workshop:  Chinese Language Processing  2000   9.57305627932881e-09
+Workshop On SEMANET: Building And Using Semantic Networks  2002   9.546553319036292e-09
+CL  2009   9.544377119746074e-09
+Proceedings of the Workshop on Negation and Speculation in Natural Language Processing  2010   9.537260627924188e-09
+Workshop on Innovative Hybrid Approaches to the Processing of Textual Data  2012   9.537210413665383e-09
+LASM  2014   9.514688629284494e-09
+Proceedings of the Eighth Workshop on Asian Language Resouces  2010   9.51083882113189e-09
+Workshop on Computational Linguistics for Literature  2012   9.497711774163861e-09
+TextGraphs Workshop On Graph Based Methods For Natural Language Processing  2014   9.494130250106284e-09
+Joint Workshop on Social Dynamics and Personal Attributes in Social Media  2014   9.479785011736269e-09
+Workshop on Predicting and Improving Text Readability for target reader populations  2013   9.479622415801886e-09
+SIGHAN Workshop On Chinese Language Processing  2004   9.449013035802241e-09
+Workshop On Annotating And Reasoning About Time And Events  2006   9.437485365905526e-09
+Workshop On Processing Of Dependency-Based Grammars  1998   9.424130264204302e-09
+IWCS  2011   9.421070836658284e-09
+Workshop On Recent Advances In Natural Language Processing And Information Retrieval  2000   9.405866206998024e-09
+Workshop on Textual Entailment and Paraphrasing  2007   9.391933738813034e-09
+SP  2014   9.382324260372669e-09
+Workshop On Current Themes In Computational Phonology And Morphology  2004   9.379197158645842e-09
+SIGDIAL  2003   9.379158515359144e-09
+Computational Lexical Semantics Workshop  2004   9.375756236417208e-09
+INLG and SIGDIAL 2014 Joint Session  2014   9.374577275362454e-09
+Proceedings of the 2010 Workshop on Applications of Tree Automata in Natural Language Processing  2010   9.352532552391555e-09
+CL  1979   9.349019505701904e-09
+Workshop On Text Summarization  2003   9.321344111085712e-09
+Workshop On Computational Approaches To Semitic Languages  2005   9.292566422971656e-09
+Workshop On Making Sense Of Sense: Bringing Psycholinguistics And Computational Linguistics Together  2006   9.292101321910599e-09
+AHA!-Workshop on Information Discovery in Text  2014   9.269660054185385e-09
+Workshop On Frontiers In Corpus Annotations II: Pie In The Sky  2005   9.230968150534962e-09
+CogACLL  2014   9.222060542099166e-09
+BioNLP   2010   9.203044019045154e-09
+Workshop On Syntactic And Semantic Complexity In Natural Language Processing Systems  2000   9.200670021970235e-09
+VarDial  2014   9.185077596172765e-09
+Workshop On Multilingual Summarization And Question Answering  2003   9.18334297892537e-09
+ENLG  2009   9.124115378309524e-09
+HaCat  2014   9.117554231391282e-09
+Workshop On Human Language Technology And Knowledge Management  2001   9.109207538229784e-09
+Workshop On Conversational Systems  2000   9.109054690792982e-09
+Workshop On Adaptive Text Extraction And Mining ATEM  2006   9.073999339214951e-09
+INLG  2006   9.06564643944098e-09
+Workshop On Evaluation Methodologies For Language And Dialogue Systems  2001   8.992994296122354e-09
+LT4CloseLang  2014   8.978754654019525e-09
+SIGDIAL  2011   8.96612188141594e-09
+MWE  2006   8.939894173018444e-09
+metaphor in NLP  2014   8.939194481286437e-09
+Workshop on Semantic Analysis in Social Media  2012   8.936842683799943e-09
+Workshop On Incremental Parsing: Bringing Engineering And Cognition Together  2004   8.918630469941046e-09
+Workshop On Paraphrasing  2003   8.878726776917577e-09
+Workshop On Learning Structured Information In Natural Language Applications  2006   8.868488996327757e-09
+ENLG  2013   8.82147433822673e-09
+BioNLP   2011   8.809590640884013e-09
+ENLG  2005   8.78265755710949e-09
+Proceedings of the Workshop on Current Trends in Biomedical Natural Language Processing  2008   8.766732762571546e-09
+Workshop On Applied Interlinguas: Practical Applications Of Interlingual Approaches To NLP  2000   8.745308712886181e-09
+Workshop On A Roadmap For Computational Linguistics  2002   8.74282040134167e-09
+Interactive Question Answering Workshop  2006   8.738935372105986e-09
+MultiLing  2013   8.672436281967024e-09
+Workshop on Cognitive Aspects of Computational Language Acquisition  2007   8.657147542753593e-09
+Dialogue in Motion  2014   8.567782019941048e-09
+SIGLEX Workshop On Deep Lexical Acquisition  2005   8.555029843114496e-09
+Proceedings of the 2010 Workshop on GEometrical Models of Natural Language Semantics  2010   8.553472187371793e-09
+Workshop On RObust Methods In Analysis Of Natural Language Data ROMAND  2004   8.551420870858525e-09
+Workshop On Information Extraction Beyond The Document  2006   8.516502085417813e-09
+Workshop On Ontology Learning And Population: Bridging The Gap Between Text And Knowledge  2006   8.508563537539966e-09
+CL  1986   8.491035755195686e-09
+Workshop On Computational Phonology  1997   8.484199931240624e-09
+Workshop On Strategic Computing - Natural Language  1986   8.44172433027063e-09
+BEA  2009   8.421482921634393e-09
+Named Entities Workshop (NEWS)  2012   8.418414479160675e-09
+Proceedings of the TextInfer 2011 Workshop on Textual Entailment  2011   8.39724031101774e-09
+Workshop On Morphological And Phonological Learning  2002   8.394093565014144e-09
+ACL  1998   8.382906432240823e-09
+Proceedings of the ACL 2011 Workshop on Relational Models of Semantics  2011   8.362698610223089e-09
+ACL  2011   8.351181476611405e-09
+Workshop On Recent Advances In Dependency Grammar  2004   8.338311786577736e-09
+Workshop On Grammar Engineering And Evaluation  2002   8.315951565865046e-09
+INLG  2010   8.292518370929734e-09
+WASSA  2012   8.282638038727411e-09
+Workshop On Finite State Methods In Natural Language Processing  2012   8.281969007797376e-09
+MWE  2007   8.272708817235766e-09
+Proceedings of the Workshop on Language in Social Media (LSM 2011)  2012   8.180386757985719e-09
+Joint Workshop on Statistical Parsing and Semantic Processing of Morphologically Rich Languages  2012   8.172743827993163e-09
+Workshop on Argumentation Mining  2014   8.16835852126745e-09
+Joint Workshop on Unsupervised and Semi-Supervised Learning in NLP  2012   8.161266117453455e-09
+Workshop On ROMAND Robust Methods In Analysis Of Natural Language Data  2006   8.152848812298146e-09
+Workshop On The Computational Treatment Of Nominals  1998   8.152302024180295e-09
+SIGDIAL  2014   8.134732145854863e-09
+Workshop On Text Summarization Branches Out  2004   8.131124030143363e-09
+Workshop on Interactive Language Learning, Visualization, and Interfaces  2014   8.053566139568376e-09
+Workshop On Asian Language Resources And International Standardization  2002   8.038840114973002e-09
+SIGPHON Workshop On The Computation Of Phonological Constraints  1998   8.032409783865948e-09
+Workshop on Extra-Propositional Aspects of Meaning in Computational Linguistics  2012   7.980077388130553e-09
+Proceedings of the NAACL HLT 2010 First International Workshop on Formalisms and Methodology for Learning by Reading  2010   7.927004473348094e-09
+Proceedings of the 2010 Named Entities Workshop  2010   7.9214811210896e-09
+Proceedings of the 2003 EACL Workshop on Morphological Processing of Slavic Languages  2003   7.844918389251882e-09
+Workshop On Sentiment And Subjectivity In Text  2006   7.839083544086096e-09
+Workshop On Sharing Tools And Resources  2001   7.803058471802969e-09
+Workshop On Word Sense Disambiguation: Recent Successes And Future Directions  2002   7.768133289928618e-09
+Workshop On Very Large Corpora: Academic And Industrial Perspectives  1993   7.763411494512039e-09
+Workshop On Web As Corpus  2014   7.749311703111578e-09
+Workshop On Unsupervised Learning In Natural Language Processing  1999   7.732768638475502e-09
+INLG  2008   7.722637754902152e-09
+Workshop On Computational Approaches To Semitic Languages  2002   7.722267211893064e-09
+HLT-NAACL Companion Volume: Student Research Workshop and Doctoral Consortium  2009   7.705440684022581e-09
+Workshop On Discourse Relations And Discourse Markers  1998   7.659895705413418e-09
+Workshop on Computational Approaches to Deception Detection  2012   7.637870479949238e-09
+Workshop on Deep Linguistic Processing  2007   7.54093076328554e-09
+Workshop On Natural Language Processing In Biomedicine  2003   7.537038504776577e-09
+Proceedings of the NAACL HLT 2009 Workshop on Semi-supervised Learning for Natural Language Processing  2009   7.535065543404263e-09
+Workshop On Open-Domain Question Answering  2001   7.49510709652468e-09
+Proceedings of the NAACL HLT 2010 First Workshop on Computational Neurolinguistics  2010   7.494578635734413e-09
+TextGraphs Workshop On Graph Based Methods For Natural Language Processing  2011   7.485029977345027e-09
+SocialNLP  2014   7.482069793955652e-09
+Workshop On Intrinsic And Extrinsic Evaluation Measures For Machine Translation And/or Summarization  2005   7.475518073271439e-09
+SWAIE  2014   7.42849792722401e-09
+CompuTerm International Workshop On Computational Terminology  2004   7.366292185047183e-09
+Proceedings of the Workshop on Geometrical Models of Natural Language Semantics  2009   7.351329307379634e-09
+CL  1984   7.3272373368125e-09
+WASSA  2013   7.31908230717386e-09
+TextGraphs Workshop On Graph Based Methods For Natural Language Processing  2006   7.2134806600177495e-09
+Workshop On The Relation Of Discourse/Dialogue Structure And Reference  1999   7.192736314897796e-09
+Workshop On Comparing Corpora  2000   7.176593529289429e-09
+CVSC  2013   7.15460656790394e-09
+CL  2006   7.151319347250222e-09
+WASSA  2014   7.1443488513641405e-09
+WASSA  2011   7.071926821929449e-09
+Workshop: Will We Ever Really Replace the N-gram Model? On the Future of Language Modeling for HLT  2012   7.039976869702238e-09
+Workshop On Computational Natural Language Learning CoNLL  1999   6.9936122339998265e-09
+Workshop on Future directions and needs in the Spoken Dialog Community: Tools and Data (SDCTD 2012)  2012   6.962483752205955e-09
+SIGDIAL  2000   6.952167790020897e-09
+Workshop On Breadth And Depth Of Semantic Lexicons  1996   6.950650234953766e-09
+SIGDIAL  2002   6.936669693629349e-09
+SSST  2009   6.926488585752192e-09
+MUC  1991   6.9258390226233784e-09
+Proceedings of the First workshop on Unsupervised Learning in NLP  2011   6.909923612629934e-09
+EACL  1983   6.9048533615072205e-09
+Proceedings of the IJCNLP-08 Workshop on Named Entity Recognition for South and South East Asian Languages  2008   6.904694239872705e-09
+Workshop On Unsupervised Lexical Acquisition  2002   6.857784254109616e-09
+Workshop On Reading Comprehension Tests As Evaluation For Computer-Based Language Understanding Systems  2000   6.847889295070932e-09
+AJCL  1983   6.803897340298958e-09
+Workshop On Computationally Hard Problems And Joint Inference In Speech And Language Processing  2006   6.755176037723522e-09
+Proceedings of the Fourth SIGHAN Workshop on Chinese Language Processing  2005   6.733766593967254e-09
+Workshop On Pragmatics Of Question Answering  2004   6.702030067999811e-09
+Proceedings of the 2010 Workshop on Domain Adaptation for Natural Language Processing  2010   6.6894809923486255e-09
+Proceedings of the NAACL HLT 2010 Workshop on Computational Approaches to Analysis and Generation of Emotion in Text  2010   6.682337978964417e-09
+Workshop On Interactive Spoken Dialog Systems: Bringing Speech And NLP Together In Real Applications  1997   6.6491921846023015e-09
+ACL  1981   6.6481308700669605e-09
+ACL  1983   6.605734411964382e-09
+Workshop On Empirical Modeling Of Semantic Equivalence And Entailment  2005   6.5973650750327485e-09
+CL  2008   6.585123576568316e-09
+Workshop On Automatic Alignment And Extraction Of Bilingual Domain Ontology For Medical Domain Web Search  2004   6.582129590975677e-09
+Proceedings of the Workshop on Semantic Evaluations: Recent Achievements and Future Directions (SEW-2009)  2009   6.581663382856317e-09
+Joint Workshop on Exploiting Synergies between Information Retrieval and Machine Translation (ESIRMT) and Hybrid Approaches to Machine Translation (HyTra)  2012   6.5755320216955216e-09
+BUCC  2013   6.54832813384618e-09
+SIGDIAL  2008   6.5466493692168215e-09
+SIGLEX Workshop On Standardizing Lexical Resources  1999   6.525783028832178e-09
+CompuTerm International Workshop On Computational Terminology  2002   6.518260234324339e-09
+ACL  1982   6.496913256072462e-09
+CL  1991   6.495934931820902e-09
+Joint Workshop on Statistical Parsing and Semantic Processing of Morphologically Rich Languages  2014   6.4606536391052905e-09
+ACL  1986   6.4457621502399996e-09
+Workshop On Building Educational Applications Using NLP  2012   6.407612772232827e-09
+Proceedings of the Third International Workshop on Paraphrasing (IWP2005)  2005   6.353003402871166e-09
+Proceedings of the Workshop on Parsing German  2008   6.352486644189979e-09
+EACL  1985   6.281759133298106e-09
+SSST  2012   6.22501514143788e-09
+ANLP  2014   6.2133696034947234e-09
+Workshop On Finite State Methods In Natural Language Processing  1998   6.184423004273874e-09
+SIGDIAL  2012   6.180386734494681e-09
+Workshop:  Conference On Reference Resolution And Its Applications  2004   6.1617341578246104e-09
+DiscoMT  2013   6.090681256314113e-09
+Workshop on Statistical Parsing of Morphologically-Rich Languages  2010   6.088518083149047e-09
+Workshop On Building And Using Parallel Texts: Data Driven Machine Translation And Beyond  2003   6.06934408471704e-09
+International Joint Workshop On Natural Language Processing In Biomedicine And Its Applications NLPBA BioNLP  2004   6.049615928355038e-09
+Workshop On Multilingual And Mixed-Language Named Entity Recognition  2003   6.0455082220958565e-09
+CL  1990   6.02442475220776e-09
+MUC  1995   5.997475851900342e-09
+Workshop On Natural Language Generation EWNLG  2001   5.9587449739071984e-09
+CL  2007   5.943686483184435e-09
+CoNLL  2012   5.930489754316477e-09
+BUCC  2011   5.9236415322355e-09
+CL  2011   5.916441740986176e-09
+INLG  1996   5.915551890908786e-09
+SIGDIAL  2013   5.909890614523539e-09
+Workshop On Usage Of WordNet In Natural Language Processing Systems  1998   5.905514790663516e-09
+Proceedings of the Workshop on Monolingual Text-To-Text Generation  2011   5.8974619995404266e-09
+CoNLL  2002   5.846237363909011e-09
+CoNLL  2008   5.768873037484905e-09
+Proceedings of the NAACL HLT 2010 Workshop on Creating Speech and Language Data with Amazon&rsquo;s Mechanical Turk  2010   5.756760794269486e-09
+HyTra  2013   5.75008599797393e-09
+Workshop On Operational Factors In Practical Robust Anaphora Resolution For Unrestricted Texts  1997   5.7432384132692794e-09
+Workshop On Natural Language Generation  1990   5.732289279982561e-09
+COLING  1982   5.732048467435817e-09
+HLT  2001   5.7292515030025485e-09
+TACL  2014   5.699043718701435e-09
+Workshop On The Acquisition Of Lexical Knowledge From Text  1993   5.6719633779423565e-09
+Workshop On Machine Translation In Asia  2002   5.639225660081087e-09
+MWE  2003   5.631682569670639e-09
+SIGHAN Workshop On Chinese Language Processing  2006   5.627973202480823e-09
+ACL  1985   5.625800134784033e-09
+CL  2010   5.600837407945293e-09
+MUC  1993   5.555126270576313e-09
+ACL  1987   5.537573702054011e-09
+Workshop on the Induction of Linguistic Structure  2012   5.534726000369344e-09
+ANLP  1988   5.492737882457357e-09
+EACL  1987   5.432614548225087e-09
+NAACL  2001   5.388629040327578e-09
+Workshop On Automatic Summarization  2000   5.380382471401483e-09
+BEA  2013   5.377865978210296e-09
+Workshop On Natural Language Generation EWNLG  1998   5.3604705047594955e-09
+CL  1994   5.344293304556262e-09
+Workshop On Automatic Information Extraction And Building Of Lexical Semantic Resources For NLP Applications  1997   5.339686429407395e-09
+Workshop On Computational Natural Language Learning CoNLL  2001   5.3233325850901274e-09
+SSST  2014   5.279210185994439e-09
+CL  2012   5.269900551447326e-09
+SIGHAN Workshop On Chinese Language Processing  2003   5.261678099250708e-09
+INLG  2000   5.230775921326776e-09
+CL  2004   5.230307905726494e-09
+ICPT  2007   5.197335038013351e-09
+CoNLL  2004   5.183191460552871e-09
+CL  2000   5.154245161204356e-09
+CL  1988   5.104133236760535e-09
+CL  2014   5.0834768957272975e-09
+SSST  2010   5.075210319989817e-09
+Workshop On Very Large Corpora  1996   5.069589204479143e-09
+ANLP  1992   5.056122319707695e-09
+Workshop On Computational Natural Language Learning CoNLL  1997   5.045199544660613e-09
+CL  2002   5.004156714249799e-09
+CL  1996   4.985722947569953e-09
+CL  2003   4.981778791357408e-09
+CL  2005   4.954492426915517e-09
+Workshop On TIPSTER Text Program  1998   4.934359840190466e-09
+Workshop on Semantic Interpretation in an Actionable Context  2012   4.93129166710758e-09
+SSST  2013   4.924988395808678e-09
+CoNLL  2013   4.923106065739424e-09
+CL  2013   4.878154577370471e-09
+2000 Joint SIGDAT Conference on Empirical Methods in Natural Language Processing and Very Large Corpora  2000   4.8644784877734335e-09
+Workshop On TIPSTER Text Program  1993   4.848223943223953e-09
+CoNLL  2011   4.840013724194752e-09
+CL  1987   4.808644767585228e-09
+Workshop On New Methods In Language Processing And Computational Natural Language Learning  1998   4.794438037421153e-09
+BioNLP   2013   4.758675513361724e-09
+CoNLL  2000   4.717137538097739e-09
+SSST  2008   4.704930411742051e-09
+Workshop On Natural Language Generation  1994   4.68850926505916e-09
+EMNLP  2001   4.628567679051105e-09
+SENSEVAL International Workshop On The Evaluation Of Systems For The Semantic Analysis Of Text  2004   4.616008194424545e-09
+Workshop On Speech And Natural Language  1989   4.613624941089021e-09
+EACL  1989   4.582493973400612e-09
+TINLP  1987   4.580320099617974e-09
+Workshop on Semantic Evaluations (SemEval)  2010   4.563039568314925e-09
+EMNLP  2003   4.484713121327285e-09
+SSST  2011   4.438876948888896e-09
+ANLP  1983   4.406034401512366e-09
+ACL  1990   4.389311022598011e-09
+Workshop On Data-Driven Methods In Machine Translation  2001   4.3809617486982575e-09
+CL  2001   4.355903803344467e-09
+Workshop on Statistical Parsing of Morphologically-Rich Languages  2013   4.349599739470702e-09
+CL  1999   4.29008013799986e-09
+Workshop On The Balancing Act: Combining Symbolic And Statistical Approaches To Language  1994   4.278470859794843e-09
+CL  1992   4.277846471917059e-09
+Proceedings of the Sixth SIGHAN Workshop on Chinese Language Processing  2008   4.260069395338714e-09
+EACL  2006   4.257692213551942e-09
+EMNLP  1996   4.247449522462176e-09
+Workshop On Very Large Corpora  1998   4.2059163056603485e-09
+CL  1995   4.174010440946505e-09
+CoNLL  2006   4.169376354761385e-09
+CoNLL  2005   4.1498086358582756e-09
+CoNLL  2010   4.1283643263185455e-09
+MUC  1998   4.124676849444774e-09
+LREC  2008   4.067893181135892e-09
+EACL  2012   4.058974943906325e-09
+SSST  2007   4.031161191950889e-09
+NAACL  2004   4.01352020680084e-09
+Workshop on Semantic Evaluations (SemEval)  2007   3.963333163520676e-09
+IJCNLP  2008   3.959833078420901e-09
+Workshop On TIPSTER Text Program  1996   3.959377955784603e-09
+IJCNLP  2005   3.9462980766938985e-09
+EACL  1999   3.909759498367255e-09
+ACL  1988   3.89272775992089e-09
+VLC  1995   3.8758908863199284e-09
+Workshop on Semantic Evaluations (SemEval)  2012   3.831706581946667e-09
+EACL  1993   3.790892978971272e-09
+Workshop On Parsing Technology  2005   3.765794904466172e-09
+ANLP  1994   3.74603791787549e-09
+CLP  2010   3.7348873397871506e-09
+ACL  2000   3.6954445004572485e-09
+CoNLL  2014   3.6949867048409745e-09
+Workshop On Tagging Text With Lexical Semantics: Why What And How?  1997   3.6697611617858934e-09
+*SEM  2014   3.6522035459001746e-09
+ACL  1992   3.612094631515346e-09
+CoNLL  2009   3.6091150581303923e-09
+MUC  1992   3.6079562257379738e-09
+TACL  2013   3.5792021788996724e-09
+ACL  1979   3.578847301726499e-09
+ACL  1989   3.559561541810491e-09
+EACL  2003   3.527380816370406e-09
+CoNLL  2003   3.5210396797628948e-09
+2000 Joint SIGDAT Conference on Empirical Methods in Natural Language Processing and Very Large Corpora  1999   3.487047208035871e-09
+EACL  2009   3.476442957007465e-09
+NAACL  2003   3.4750474555197174e-09
+EACL  1995   3.4719753116108443e-09
+ACL  2004   3.4671257801411e-09
+ACL  2003   3.437192882347248e-09
+Workshop On Building And Using Parallel Texts  2005   3.4143615915832523e-09
+NAACL  2012   3.410403575858734e-09
+NAACL  2007   3.3826937233314907e-09
+ACL  2002   3.382510346598418e-09
+CL  1997   3.377216704608151e-09
+EMNLP  1997   3.338842209797134e-09
+EMNLP  2004   3.2904860005196434e-09
+EMNLP  2002   3.2882146683196278e-09
+EMNLP  2006   3.284416494384604e-09
+*SEM  2013   3.270415786372498e-09
+NAACL  2006   3.259580720255736e-09
+CL  1998   3.2585000308179685e-09
+ANLP  1997   3.246261672563275e-09
+ACL  1994   3.1960229034284705e-09
+ACL  2001   3.1931395511929076e-09
+EACL  2014   3.1233860560670396e-09
+CL  1993   3.118502917932116e-09
+HLT  1993   3.1005039624850185e-09
+HLT  2010   3.074956065450121e-09
+Workshop On Very Large Corpora  1997   3.068132165221229e-09
+ACL  1996   3.0449593375845836e-09
+Proceedings of BioNLP Shared Task 2011 Workshop  2011   2.967303609317848e-09
+Workshop on Statistical Machine Translation  2009   2.926209357435045e-09
+COLING  2008   2.9195609640173932e-09
+ACL  1995   2.8882932548200823e-09
+NAACL  2009   2.8859045082766024e-09
+ANLP  2000   2.8685396438894704e-09
+EACL  1991   2.8227108068815317e-09
+Workshop On Reversible Grammar In Natural Language Processing  1991   2.7657473484916406e-09
+ACL  1999   2.7648622556527515e-09
+NAACL  2013   2.7627136584292337e-09
+ACL  2005   2.7576375265299008e-09
+COLING  2004   2.7472365516310338e-09
+Workshop On Intentionality And Structure In Discource Relations  1993   2.737240934635086e-09
+COLING  2002   2.716012535587545e-09
+Workshop on Statistical Machine Translation  2006   2.7154739811150493e-09
+ACL  2007   2.6713987040355703e-09
+EMNLP  2010   2.6498675587113957e-09
+ACL  1980   2.6446466806233435e-09
+Workshop On Speech And Natural Language  1990   2.6238918273258283e-09
+Workshop on Statistical Machine Translation  2014   2.5693067393877218e-09
+ACL  1991   2.5691140400451184e-09
+HLT  2005   2.4903382563569535e-09
+ACL  2008   2.478940237361404e-09
+COLING  2000   2.469738952952481e-09
+COLING  1986   2.4694546080188847e-09
+COLING  1984   2.4492847987316074e-09
+COLING  1988   2.4220620547300653e-09
+COLING  2014   2.3995810292088803e-09
+Workshop on Statistical Machine Translation  2010   2.313238017828594e-09
+EMNLP  2011   2.311288007438641e-09
+Workshop on Statistical Machine Translation  2008   2.3076197369082268e-09
+ACL  1997   2.303660406116307e-09
+EMNLP  2013   2.2947435335771273e-09
+Workshop on Statistical Machine Translation  2007   2.2843472575627285e-09
+EMNLP  2008   2.2749675464040603e-09
+COLING  2006   2.2240111223411164e-09
+ACL  1993   2.223888715976761e-09
+ACL  2012   2.21096184083649e-09
+CoNLL  2007   2.1996258558663563e-09
+IJCNLP  2009   2.148025855088396e-09
+ACL  2010   2.117494768849162e-09
+Workshop on Statistical Machine Translation  2011   2.0727095907453927e-09
+COLING  1996   2.0134362711127624e-09
+EMNLP  2012   2.005578576232107e-09
+HLT  1994   2.0019698838893236e-09
+EMNLP  2014   1.9696676753454178e-09
+COLING  2010   1.915272160842775e-09
+HLT  2011   1.908687714975771e-09
+EMNLP  2009   1.9012829139003425e-09
+ACL  2013   1.889086341254387e-09
+COLING  1990   1.7158674615814672e-09
+Workshop on Statistical Machine Translation  2012   1.6952925428074936e-09
+COLING  1998   1.688838170158199e-09
+ACL  2014   1.6707701688124467e-09
+Workshop On Speech And Natural Language  1992   1.669269699316953e-09
+Workshop on Statistical Machine Translation  2013   1.5968663120639225e-09
+COLING  1994   1.565439897843095e-09
+COLING  1992   1.5052714924914388e-09
+Workshop On Speech And Natural Language  1991   1.2903178517187199e-09
+TINLP  1975   5.490102402889753e-10
+TINLP  1978   2.294653778981841e-10
+EACL  2004   2.896123613630028e-14
+ACL  2006   2.896123613630028e-14
+ACL  2009   2.896123613630028e-14
+ACL  1984   2.896123613630028e-14
+COLING  1965   2.896123613630028e-14
+EMNLP  2007   2.896123613630028e-14
+EMNLP  2005   2.896123613630028e-14
+HLT  2003   2.896123613630028e-14
+HLT  2004   2.896123613630028e-14
+HLT  2006   2.896123613630028e-14
+HLT  2007   2.896123613630028e-14
+HLT  2009   2.896123613630028e-14
+NAACL  2000   2.896123613630028e-14
+IWPT  2009   2.896123613630028e-14
+SIGDIAL  2009   2.896123613630028e-14
+SIGDIAL  2010   2.896123613630028e-14
+ICCS  2009   2.896123613630028e-14
+Workshop on The People&rsquo;s Web Meets NLP: Collaboratively Constructed Semantic Resources (People's Web)  2009   2.896123613630028e-14
+Named Entities Workshop (NEWS)  2009   2.896123613630028e-14
+Proceedings of the 7th Workshop on Asian Language Resources (ALR7)  2009   2.896123613630028e-14
+Proceedings of ACL SIGLEX Workshop on Software  2005   2.896123613630028e-14
+Coling 2008: Proceedings of the 2nd workshop on Information Retrieval for Question Answering  2008   2.896123613630028e-14
+Linguistic Annotation Workshop  2009   2.896123613630028e-14
+TextGraphs Workshop On Graph Based Methods For Natural Language Processing  2009   2.896123613630028e-14
+Proceedings of the 2009 Workshop on Text and Citation Analysis for Scholarly Digital Libraries (NLPIR4DL)  2009   2.896123613630028e-14
+JEP-TALN-RECITAL 2012, Workshop ILADI 2012: Interactions Langagières pour personnes Agées Dans les habitats Intelligents (ILADI 2012: Language Interaction for Elderly in Smart Homes)  2012   2.896123613630028e-14
+JEP-TALN-RECITAL 2012, Workshop TALAf 2012: Traitement Automatique des Langues Africaines (TALAf 2012: African Language Processing)  2012   2.896123613630028e-14
+JEP-TALN-RECITAL 2012, Workshop DEFT 2012: DÉfi Fouille de Textes (DEFT 2012 Workshop: Text Mining Challenge)  2012   2.896123613630028e-14
+TACL  2015   2.896123613630028e-14
+*SEM  2015   2.896123613630028e-14
+BUCC  2009   2.896123613630028e-14
+MWE  2009   2.896123613630028e-14
